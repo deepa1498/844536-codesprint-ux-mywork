@@ -1,0 +1,9 @@
+my associate id-844536
+other team members-844535,844514,844539,844588
+team lead:844588
+my role in team:1.To devolop contactus page and view appointment page
+
+my devolopment files:
+1.contact us
+2.view appointment page
+3.some  services
